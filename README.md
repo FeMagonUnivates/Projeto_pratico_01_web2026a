@@ -24,16 +24,6 @@ Gofragem é um processo aplicado em folhas de papel para criar texturas e efeito
 
 ---
 
-## 🌐 Demonstração
-
-O projeto encontra-se hospedado em uma máquina virtual e pode ser acessado pelo link abaixo:
-
-**Aplicação:**
-
-http://177.44.248.29/fernando-magon/CRUD-Gofragem/
-
----
-
 ## 🛠 Tecnologias Utilizadas
 
 - PHP 8+
